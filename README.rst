@@ -32,8 +32,8 @@ Related Projects
    work with Git Bash on Windows (``mktemp`` command is missing and the ``zip``
    command refuses to merge archives).
 
-_`git-archive-all`: https://github.com/Kentzo/git-archive-all
-_`git-archive-all.sh`: https://github.com/meitar/git-archive-all.sh
+.. _`git-archive-all`: https://github.com/Kentzo/git-archive-all
+.. _`git-archive-all.sh`: https://github.com/meitar/git-archive-all.sh
 
 Known Limitations
 =================
